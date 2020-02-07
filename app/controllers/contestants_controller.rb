@@ -8,6 +8,10 @@ class ContestantsController < ApplicationController
     @contestant = Contestant.find(params[:id])
   end
 
+  def index
+
+  end
+
   private
 
     def contestant_params

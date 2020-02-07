@@ -4,6 +4,10 @@ class ProjectsController < ApplicationController
     Project.new(project_params)
   end
 
+  def show
+    @projects = Project.new(params[:id])
+  end
+
   private
 
     def project_params

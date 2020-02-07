@@ -242,12 +242,69 @@
         "lines": [
           1,
           null,
+          1,
+          1,
           null
         ]
       },
       "/Users/jennyklich/turing/2mod/assessments/make_it_work/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/jennyklich/turing/2mod/assessments/make_it_work/spec/features/contestant/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/jennyklich/turing/2mod/assessments/make_it_work/spec/features/projects/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/jennyklich/turing/2mod/assessments/make_it_work/spec/models/challenge_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
           null
         ]
       },
@@ -282,7 +339,9 @@
       "/Users/jennyklich/turing/2mod/assessments/make_it_work/app/models/contestant_project.rb": {
         "lines": [
           1,
-          null,
+          1,
+          1,
+          1,
           null
         ]
       },
@@ -309,7 +368,10 @@
       "/Users/jennyklich/turing/2mod/assessments/make_it_work/app/models/contestant.rb": {
         "lines": [
           1,
-          null,
+          1,
+          1,
+          1,
+          1,
           null
         ]
       },
@@ -337,10 +399,42 @@
           1,
           1,
           1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/jennyklich/turing/2mod/assessments/make_it_work/app/controllers/contestants_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/jennyklich/turing/2mod/assessments/make_it_work/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
           null
         ]
       }
     },
-    "timestamp": 1581091972
+    "timestamp": 1581099879
   }
 }
