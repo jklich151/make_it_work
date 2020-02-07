@@ -5,6 +5,6 @@ RSpec.describe "contestant show page" do
     contestant_1 = Contestant.create(name: "Jay",
                                     age: "27",
                                     hometown: "Queens, NY",
-                                    experience: 4)
+                                    years_of_experience: 4)
   end
 end

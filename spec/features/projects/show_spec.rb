@@ -4,7 +4,7 @@ RSpec.describe "The projects show page" do
   it "should display project info" do
     litfit = Project.create(name: "Litfit",
                             material: "Lamp Shade")
-    apartment_furnishings = litfit.challenge.create(theme: "Apartment Furnishings")
+    challenge_1 = litfit.challenge.create(theme: "Apartment Furnishings")
 
     visit "/projects/#{litfit.id}"
 

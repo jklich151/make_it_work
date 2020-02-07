@@ -1,7 +1,7 @@
 class ChallengeController < ApplicationController
 
   def create
-    challenge = Challenge.new(challenge_params)
+    Challenge.new(challenge_params)
   end
 
 
